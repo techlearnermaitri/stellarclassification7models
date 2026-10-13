@@ -1,6 +1,6 @@
 Mapping the Cosmos: Classifying Astronomical Objects from SDSS DR17
 
-An end-to-end Machine Learning–powered astronomical classification system that automatically 
+A Machine Learning powered astronomical classification system that 
 classifies celestial objects into Stars, Galaxies, and Quasars
 using photometric and spectroscopic data from the Sloan Digital Sky Survey (SDSS DR17).
 
